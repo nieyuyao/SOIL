@@ -39,3 +39,12 @@ This is libSOIL (Simple OpenGL Image Library) modified to use the CMake build sy
 
 # License
 Public domain.
+
+# Tip
+1. 先使用CMake工具导入git仓库
+2. build目录填入git仓库的build目录
+3. 点击Configure
+4. 点击Generate
+5. 然后cd到build目录下
+6. 执行make命令
+7. 再执行make install命令
